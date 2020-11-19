@@ -1,2 +1,2 @@
 # Niyuddha
-1v1 competitive programming environment.
+Remote code execution environment for Python.
