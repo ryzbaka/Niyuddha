@@ -1,3 +1,3 @@
 # Niyuddha
-Remote code execution environment for Python.
+Remote code execution engine (prototype) for Python.
 ![screenshot](screenCapture.PNG)
